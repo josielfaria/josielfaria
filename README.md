@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @josielfaria
 - 👀 I’m interested in Frontend
-- 🌱 I’m currently learning React.js
-- 📫 How to reach me https://www.instagram.com/ujosiel/
 
 ##
 
