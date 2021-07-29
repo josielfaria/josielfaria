@@ -1,5 +1,7 @@
-- 👋 Hi, I’m @josielfaria
-- 👀 I’m interested in Frontend
+## Iae! Eu sou o @josielfaria
+
+- 🔭 Hoje trabalho com front-end
+- 🌱 Estudando Typescript e Laravel
 
 ##
 
