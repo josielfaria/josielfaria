@@ -18,7 +18,7 @@
 <div>
   <br>
   
-  <a href="https://josielfaria.com" target="_blank">
+  <a href="https://portfolio.josielfaria.com" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-%23013243?style=for-the-badge&logo=opensourceinitiative&logoColor=white" target="_blank">
   </a>
   
